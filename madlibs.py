@@ -27,12 +27,3 @@ I froze in place and all I could do was {}.
 
 if __name__ == '__main__':
 	main()
-
-
-	'''
-	Enter a number from 1 to 12: 6
-Enter a noun (plural): dolls
-Enter a name: stephen sedoll
-Enter any sentence: the future is made of dolls
-Enter a verb: shake my head
-	'''
